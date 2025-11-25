@@ -3,6 +3,12 @@
 **ZenOptimize** is a lightweight Windows optimization tool focused on improving gaming performance, responsiveness, and system consistency.  
 It safely applies tuning adjustments and includes a full structured backup/restore system.
 
+<p align="center">
+  <a href="https://ko-fi.com/sidfps" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
+
 > **Note:** The PowerShell source code is private. Only the compiled binary is distributed publicly.
 
 ---
@@ -17,7 +23,7 @@ It safely applies tuning adjustments and includes a full structured backup/resto
 - **Disable GameDVR & GameBar** (lower overhead / input latency)
 - **Network latency tweaks**:
   - Auto-detect active network adapter
-  - TCPNoDelay, TcpAckFrequency, DelAck optimization
+  - TCPNoDelay, TcpAckFrequency, TCPDelAckTicks optimization
 - **Visual effects performance mode**
 - **Limit background UWP apps** for performance
 - Explorer/Search optimization (DisableSearchBoxSuggestions)
@@ -62,13 +68,16 @@ Use responsibly and always read the documentation before applying changes.
 
 ---
 
-## 💬 Feedback / Issues
-Open an issue on GitHub to report bugs or suggest improvements.
+## ❤️ Support the Project
+If you find ZenOptimize helpful, consider supporting further development:
+
+<p align="center">
+  <a href="https://ko-fi.com/sidfps" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
 
 ---
 
-## ❤️ Support the Project
-
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sidfps)
-
-
+## 💬 Feedback / Issues
+Open an issue on GitHub to report bugs or suggest improvements.
