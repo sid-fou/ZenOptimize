@@ -65,3 +65,10 @@ Use responsibly and always read the documentation before applying changes.
 ## 💬 Feedback / Issues
 Open an issue on GitHub to report bugs or suggest improvements.
 
+---
+
+## ❤️ Support the Project
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sidfps)
+
+
