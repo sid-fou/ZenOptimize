@@ -1,0 +1,60 @@
+# ============================
+# OS / System Files
+# ============================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================
+# Windows Temporary Files
+# ============================
+*.tmp
+*.log
+*.bak
+*.old
+*.swp
+
+# ============================
+# PowerShell / ZenOptimize
+# ============================
+# Backup & runtime artifacts
+ZenOptimizeBackup.json
+ZenOptimize.log
+
+# Compiled executables (keep source, release exe separately)
+*.exe
+
+# ============================
+# VS Code
+# ============================
+.vscode/
+
+# ============================
+# Git
+# ============================
+.git/
+.gitignore~
+ZenOptimize - Project Context & Design.md
+ZenOptimize.ico
+ZenOptimize.ps1
+OGlogo.png
+
+# ============================
+# Archives
+# ============================
+*.zip
+*.7z
+*.rar
+
+# ============================
+# Optional: Local builds / exports
+# ============================
+dist/
+build/
+out/
+
+# ============================
+# Optional: Release artifacts
+# Uncomment if you publish releases manually
+# ============================
+# releases/
