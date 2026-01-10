@@ -5,10 +5,13 @@ Specific registry keys and implementation details remain private.
 
 ---
 
-## v1.1 — Windows Settings Expansion
-- Add Game Mode toggle
-- Enable Hardware-Accelerated GPU Scheduling
-- Additional Windows settings improvements (Xbox services, notifications, FSE behavior, etc.)
+## ✅ v1.1 — Windows Settings Expansion (COMPLETED)
+- ✅ Game Mode enabled
+- ✅ Hardware-Accelerated GPU Scheduling (HAGS) with auto-detection
+- ✅ Xbox services optimization (preserves controller support)
+- ✅ Notification and Focus Assist suppression
+- ✅ Comprehensive logging system
+- ✅ Enhanced administrator elevation
 
 ## v1.2 — Optimization Extensions
 - New registry-based tuning categories

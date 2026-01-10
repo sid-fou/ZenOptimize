@@ -13,30 +13,48 @@ It safely applies tuning adjustments and includes a full structured backup/resto
 
 ---
 
-## 🚀 Features (v1.0 – MVP)
-- Automatic **Administrator elevation**
-- **Structured backup** of all modified registry values
-- Full **Restore Defaults** feature (type-aware restoration)
+## 🚀 Features (v1.1 – Enhanced Gaming Experience)
+
+### 🎮 Core Gaming Optimizations
+- **Windows Game Mode** – Automatically enables for optimal resource allocation
+- **Hardware-Accelerated GPU Scheduling (HAGS)** – Reduces latency on supported GPUs (auto-detected)
 - **Gaming performance adjustments**:
   - SystemProfile responsiveness tuning
   - SystemProfile\Tasks\Games CPU/GPU priority tweaks
 - **Disable GameDVR & GameBar** (lower overhead / input latency)
-- **Network latency tweaks**:
-  - Auto-detect active network adapter
-  - TCPNoDelay, TcpAckFrequency, TCPDelAckTicks optimization
+
+### 🔕 Distraction-Free Gaming
+- **Focus Assist & Notification Suppression** – Prevents interruptions during gameplay
+- **Xbox Services Optimization** – Disables non-essential services while preserving controller support
+
+### 🌐 Network Optimizations
+- Auto-detect active network adapter
+- TCPNoDelay, TcpAckFrequency optimization for lower latency
+
+### ⚡ System Performance
 - **Visual effects performance mode**
-- **Limit background UWP apps** for performance
+- **Limit background UWP apps** for better gaming performance
 - Explorer/Search optimization (DisableSearchBoxSuggestions)
+
+### 🛡 Safety & Reliability
+- Automatic **Administrator elevation** (seamless, no manual intervention)
+- **Comprehensive logging** (ZenOptimize.log) for troubleshooting
+- **Structured backup** of all modified registry values
+- Full **Restore Defaults** feature (type-aware restoration)
+- Interactive restart prompt when system restart required (HAGS)
+
+### 🎨 User Experience
 - Simple interactive menu (Apply / Restore)
-- Clean user-facing status messages and branding
+- Clear step-by-step progress indicators
+- Clean status messages and branding
 
 ---
 
 ## 📦 Downloads
 Get the latest **ZenOptimize.exe** from the Releases section.
 
-📁 Current binary:  
-`ZenOptimize_v1.0.exe`
+📁 Current binary:
+`ZenOptimize_v1.1.exe`
 
 ---
 

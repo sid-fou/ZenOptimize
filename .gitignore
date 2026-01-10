@@ -25,9 +25,10 @@ ZenOptimize.log
 *.exe
 
 # ============================
-# VS Code
+# VS Code & Claude
 # ============================
 .vscode/
+.claude/
 
 # ============================
 # Git
@@ -36,7 +37,7 @@ ZenOptimize.log
 .gitignore~
 ZenOptimize - Project Context & Design.md
 ZenOptimize.ico
-ZenOptimize.ps1
+*.ps1
 OGlogo.png
 
 # ============================
